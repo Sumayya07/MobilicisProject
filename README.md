@@ -28,9 +28,10 @@ Mobilicis is a device information app that allows you to get your device followi
 
 <p align="center">
 
- <img src="https://user-images.githubusercontent.com/93969890/233812688-aae702bd-95a3-4f88-b0be-52c235842e0a.png" width="45%">
-  <img src="https://user-images.githubusercontent.com/93969890/233812713-ea72f4f4-a41f-4ae1-87f3-f106262435e3.png" width="45%">
-   <img src="https://user-images.githubusercontent.com/93969890/233812735-89175493-c174-4f03-8619-e692f5184dbd.png" width="45%">
+ <img src="https://github.com/Sumayya07/MobilicisProject/assets/95580926/ac9e278f-126f-4471-8561-f688bf47d67c" width="45%">
+  <img src="https://github.com/Sumayya07/MobilicisProject/assets/95580926/8451014d-bf80-4a94-8a6f-274d2974a34a" width="45%">
+   <img src="https://github.com/Sumayya07/MobilicisProject/assets/95580926/118e1b42-28e2-4e18-ab07-3f4cbdeb838e" width="45%">
+     <img src="https://github.com/Sumayya07/MobilicisProject/assets/95580926/73d816bb-7740-4e7f-b590-7366ef68f3a8" width="45%">
 </p>
 
 
